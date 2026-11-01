@@ -1,0 +1,10 @@
+{
+    "name": "Byte",
+    "type": "chatbot",
+    "age": 2,
+    "skills": [
+        "Python",
+        "jokes",
+        "NLP"
+    ]
+}

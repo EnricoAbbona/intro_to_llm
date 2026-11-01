@@ -1,0 +1,4 @@
+Dear diary,
+Today I learned Python.
+Tomorrow: world domination (of my homework).
+P.S. Bring snacks.
